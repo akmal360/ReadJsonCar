@@ -1,0 +1,54 @@
+{
+  "carList" : [ {
+    "type" : "car",
+    "year" : 2020,
+    "make" : "Nissan",
+    "model" : "CRV7",
+    "odemeter" : 34000,
+    "engineSize" : 2.5
+  }, {
+    "type" : "car",
+    "year" : 2021,
+    "make" : "Nissan",
+    "model" : "CRV3",
+    "odemeter" : 34000,
+    "engineSize" : 3.5
+  }, {
+    "type" : "car",
+    "year" : 2022,
+    "make" : "Nissan",
+    "model" : "CRV1",
+    "odemeter" : 34000,
+    "engineSize" : 4.5
+  }, {
+    "type" : "car",
+    "year" : 2023,
+    "make" : "Nissan",
+    "model" : "CRV4",
+    "odemeter" : 34000,
+    "engineSize" : 5.5
+  }, {
+    "type" : "car",
+    "year" : 2024,
+    "make" : "Nissan",
+    "model" : "CRV5",
+    "odemeter" : 34000,
+    "engineSize" : 6.5
+  }, {
+    "type" : "car",
+    "year" : 2025,
+    "make" : "Nissan",
+    "model" : "CRV3",
+    "odemeter" : 34000,
+    "engineSize" : 7.5
+  }, {
+    "type" : "super",
+    "year" : 2025,
+    "make" : "Nissan",
+    "model" : "CRV3",
+    "odemeter" : 34000,
+    "engineSize" : 7.5,
+    "fualOctane" : 111,
+    "hasThruster" : true
+  } ]
+}
